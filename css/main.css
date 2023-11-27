@@ -1,0 +1,22 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 1rem;
+}
+* {
+    font-family: 'Darker Grotesque', sans-serif;
+}
+
+/* Logo */
+.navbar-brand {
+    width: 5%
+}
+.navbar-brand img {
+    width: 100%
+}
